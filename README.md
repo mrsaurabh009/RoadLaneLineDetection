@@ -39,6 +39,4 @@ The main functions for processing images and videos are:
 
 # Acknowledgments
 
-This project was inspired by the Udacity Self-Driving Car Engineer Nanodegree program.
-
 I hope this README file provides a comprehensive overview of the project. Let me know if you need further assistance!
